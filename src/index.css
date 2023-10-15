@@ -29,3 +29,8 @@
     font-family: "Slim Joe";
     src: url("../public/Slim\ Joe.otf");
 }
+
+@font-face {
+    font-family: "Baumans";
+    src: url("../public/Baumans.ttf");
+}

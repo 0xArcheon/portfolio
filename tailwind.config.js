@@ -22,6 +22,7 @@ export default {
       fontFamily: {
         bigjohn: ["Big John"],
         slimjoe: ["Slim Joe"],
+        baumans: ["Baumans"],
       },
     },
   },
