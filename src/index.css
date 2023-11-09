@@ -3,34 +3,34 @@
 @tailwind utilities;
 
 @layer base {
-    :root {
-        --text: #282825;
-        --background: #f9f5f1;
-        --primary: #22a093;
-        --secondary: #f7cb45;
-        --accent: #9369fc;
-    }
+  :root {
+    --text: #282825;
+    --background: #f9f5f1;
+    --primary: #22a093;
+    --secondary: #f7cb45;
+    --accent: #9369fc;
+  }
 
-    .dark {
-        --text: #dadad7;
-        --background: #0e0a06;
-        --primary: #5fddd0;
-        --secondary: #ba8d08;
-        --accent: #2d0396;
-    }
+  .dark {
+    --text: #dadad7;
+    --background: #0e0a06;
+    --primary: #5fddd0;
+    --secondary: #ba8d08;
+    --accent: #2d0396;
+  }
 }
 
 @font-face {
-    font-family: "Big John";
-    src: url("../public/BIG\ JOHN.otf");
+  font-family: "Glasgow";
+  src: url("../GlasgowBold.ttf");
 }
 
 @font-face {
-    font-family: "Slim Joe";
-    src: url("../public/Slim\ Joe.otf");
+  font-family: "Strasua";
+  src: url("../strasua.otf");
 }
 
 @font-face {
-    font-family: "Baumans";
-    src: url("../public/Baumans.ttf");
+  font-family: "CocoGothic";
+  src: url("../CocoGothic.ttf");
 }
